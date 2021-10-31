@@ -1,2 +1,2 @@
-# Google_WebSayfas-
+# Google_WebSayfasi-
 Google sayfası çalışması
