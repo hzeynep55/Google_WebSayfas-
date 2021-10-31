@@ -1,0 +1,51 @@
+.google{
+    
+    margin-left: 400px;
+}
+#google_search{
+    background-color: LightGray;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.footer{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 100px;
+    height: 25px;
+    text-align: center;
+}
+.fontsize_small{
+ font-size: 12px;
+}
+
+
+.sol_div{
+    float: left;
+    background-color: aqua;
+    width:486px;
+    height: 81px;
+    margin-left: 40px;
+    margin-top: 2px;
+    
+}
+
+.orta_div{
+    float: left;
+    background-color: #99ccff;
+    width: 260px;
+    margin-left: 2px;
+    margin-top: 2px;
+    height: 81px;
+}
+.right_div{
+   float:right;
+   margin-top: 2px;
+   background-color:  #4db8ff;
+   margin-left: 2px;
+   margin-right: 40px;
+   width: 520px;
+   height: 81px;
+}
+#search{
+    width: 320px;
+}
